@@ -9,4 +9,5 @@ tensorflow
 scikit-learn
 scipy
 jupyter
+PyPortfolioOpt
 
